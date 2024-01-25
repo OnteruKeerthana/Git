@@ -1,2 +1,4 @@
 Hello World!
 Welcome to GitHub.
+
+GitHub is a platform for the version control
