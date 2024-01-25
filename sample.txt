@@ -1,4 +1,4 @@
 This is a sample txt file
- hello
+ hello sample.txt
 
  adding text in sample file...,
