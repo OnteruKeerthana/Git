@@ -5,5 +5,9 @@ This is a sample txt file
  adding text in sample file...,
 =======
 This is a sample text file.
+<<<<<<< HEAD
 Git is a distributed version control system
 >>>>>>> 6df5a0e (Add some text to sample file)
+=======
+Git is a distributed version control system.
+>>>>>>> 091fd1c (update the sample file)
