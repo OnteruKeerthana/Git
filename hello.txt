@@ -3,4 +3,4 @@ Welcome to GitHub.
 
 GitHub is a platform for the version control
 
-End of GitHub
+End of GitHub hello
